@@ -1,4 +1,4 @@
-# Lab 1 - Git Basics on Main Branch
+# Lab 1 - Git Basics and Version Control
 
 This repository is created as part of the Git, Docker and CI/CD practical laboratory.
 
