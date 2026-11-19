@@ -1,4 +1,4 @@
-# Lab 1 - Git Fundamentals
+# Lab 1 - Git and Version Control
 
 This repository is created as part of the Git, Docker and CI/CD practical laboratory.
 
